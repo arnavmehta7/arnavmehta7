@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=32&color=FFFFFF&lines=Hi+there!+I'm+Arnav+Mehta.+🚀)
 
-👋 I'm a Programmer currently studying in High School in Punjab,India. I mainly have experience in working with AI/ML and web development. In my free time, I tend to be either reading some books, walking in a park, or listenting some podcasts.
+👋 Hello People!
 
 <!-- ## 🏆 Achievements
 
@@ -9,7 +9,7 @@
   - BEBRAS International Challenge on Informatics and Computational Thinking (BEBRAS)
   - Design Thinking with Robotics and Computational Thinking International Competition Finals (DrCT)
   - Singapore Math Global Assessments Final (SINGA) -->
-
+<!--
 ## 📚 Experience
 
 - Selected for a 3 months internship as an AI leader at Intel - AISC, a 30k students community, to provide lectures, resources, and sessions to make youth AI equipped 
@@ -51,7 +51,6 @@ Activities and societies: Hack Club, Jazz band, Peer Tutoring, Speak Up Stamford
 - Elected as an advisory representative; subsequently elected into the Student Council (8th)
 - Designed the yearbook cover for middle school (8th) -->
 
-<hr />
  
 <!-- ### 🌐 Things I work with -->
 <!-- 
@@ -76,14 +75,13 @@ Activities and societies: Hack Club, Jazz band, Peer Tutoring, Speak Up Stamford
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  -->
 
-<hr />
 
 ### 🤝 Collaboration
 
 I believe that collaborating on projects is a great way to learn from each other, grow and build up experience; feel free to hit me up on Discord (TheHumun#3949) or email me at [arnavmehta.contact@gmail.com](mailto:arnavmehta.contact@gmail.com) if you want to work on a project together.
 <!-- 
 ### 📢 Socials -->
-
+<!-- 
 ![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavmehta7&show_icons=true&theme=radical)
 
 
