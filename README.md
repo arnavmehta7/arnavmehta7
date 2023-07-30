@@ -77,8 +77,7 @@ Activities and societies: Hack Club, Jazz band, Peer Tutoring, Speak Up Stamford
 
 
 ### 🤝 Collaboration
-
-I believe that collaborating on projects is a great way to learn from each other, grow and build up experience; feel free to hit me up on Discord (TheHumun#3949) or email me at [arnavmehta.contact@gmail.com](mailto:arnavmehta.contact@gmail.com) if you want to work on a project together.
+Want to know more? Contact at arnavmehta.cs@gmail.com
 <!-- 
 ### 📢 Socials -->
 <!-- 
