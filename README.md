@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=32&color=FFFFFF&lines=Hi+there!+I'm+Arnav+Mehta.+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=32&color=FFFFFF&lines=Hi+humans!+I'm+Arnav.+🚀)
 
 👋 Hello People!
 
